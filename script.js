@@ -34,11 +34,11 @@ class RPGHero {
     }
 
 }
-// hero1.age= "36dfcf";
-// hero1.hello()
-// hero2.hello(hero1)
-// alert(hero1.age)
-// alert(hero2.age)
+hero1.age= "36dfcf";
+hero1.hello()
+hero2.hello(hero1)
+alert(hero1.age)
+alert(hero2.age)
 
 let kirillHero = new RPGHero("kirill",26,120)
 let kateHero = new RPGHero("Katy",23,120)
